@@ -1,5 +1,10 @@
-public with sharing class TestClass {
-    public static void TestClass1() {
-         System.debug('conflict check abin');
-    } 
+public with sharing class TestClass1 {
+    public TestClass1() {
+
+        String name='Arjun';
+
+        System.debug('CID Hero');
+        System.debug('Hello '+name);
+        System.debug('conflict check abin');
+    }
 }
