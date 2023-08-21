@@ -152,15 +152,15 @@
     <enableSearch>true</enableSearch>
     <enableSharing>true</enableSharing>
     <enableStreamingApi>true</enableStreamingApi>
-    <externalSharingModel>Private</externalSharingModel>
-    <label>RC_question</label>
+    <externalSharingModel>ControlledByParent</externalSharingModel>
+    <label>RC_college_event_junction</label>
     <nameField>
-        <label>RC_Question Name</label>
+        <label>RC_college_event_junction Name</label>
         <trackHistory>false</trackHistory>
         <type>Text</type>
     </nameField>
-    <pluralLabel>RC_questions</pluralLabel>
+    <pluralLabel>RC_college_event_junctions</pluralLabel>
     <searchLayouts></searchLayouts>
-    <sharingModel>ReadWrite</sharingModel>
+    <sharingModel>ControlledByParent</sharingModel>
     <visibility>Public</visibility>
 </CustomObject>
