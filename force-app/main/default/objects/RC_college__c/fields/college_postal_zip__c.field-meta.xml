@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>college_postal_zip__c</fullName>
+    <description>College Postal/Zip code</description>
+    <externalId>false</externalId>
+    <inlineHelpText>Enter the college Postal/ZIP code</inlineHelpText>
+    <label>college_postal_zip_code</label>
+    <required>false</required>
+    <trackHistory>false</trackHistory>
+    <trackTrending>false</trackTrending>
+    <type>TextArea</type>
+</CustomField>
