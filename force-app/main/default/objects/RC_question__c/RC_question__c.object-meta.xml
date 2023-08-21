@@ -155,11 +155,12 @@
     <externalSharingModel>Private</externalSharingModel>
     <label>RC_question</label>
     <nameField>
-        <label>RC_question Name</label>
+        <label>RC_Question Name</label>
         <trackHistory>false</trackHistory>
         <type>Text</type>
     </nameField>
     <pluralLabel>RC_questions</pluralLabel>
+    <recordTypeTrackHistory>false</recordTypeTrackHistory>
     <searchLayouts></searchLayouts>
     <sharingModel>ReadWrite</sharingModel>
     <visibility>Public</visibility>
